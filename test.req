@@ -1,0 +1,10 @@
+GET /test HTTP 1.1
+Host: test-host.com
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.2623.112 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Cookie: cookie1=value1; cookie2=value2
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
